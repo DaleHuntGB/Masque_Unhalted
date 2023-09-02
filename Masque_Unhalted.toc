@@ -1,0 +1,7 @@
+## Version: 1.0.0
+## Title: Masque: Unhalted
+## Notes: Clean & Minimalist Border for Masque.
+## Author: Unhalted
+## Dependency: Masque
+
+Masque_Unhalted.lua
