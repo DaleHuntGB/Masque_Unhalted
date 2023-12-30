@@ -14,8 +14,8 @@ Masque:AddSkin("Unhalted", {
         OffsetY = 0.1,
     },
     Icon = {
-        Width = 36,
-        Height = 36,
+        Width = IconSize - 2,
+        Height = IconSize - 2,
         Point = "CENTER",
         RelPoint = "CENTER",
         TexCoords =  {0.07, 0.93, 0.07, 0.93},
@@ -23,8 +23,8 @@ Masque:AddSkin("Unhalted", {
         OffsetY = 0.1,
     },
     Cooldown = {
-        Width = IconSize,
-        Height = IconSize,
+        Width = IconSize - 2,
+        Height = IconSize - 2,
         Color = { 0, 0, 0, 0.75 },
         Point = "CENTER",
         RelPoint = "CENTER",
