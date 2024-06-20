@@ -131,6 +131,28 @@ Masque:AddSkin("Unhalted", {
         OffsetX = -0.1,
         OffsetY = 0.1,
     },
+    SlotHighlight = {
+        Width = IconSize,
+        Height = IconSize,
+        Color = { 1, 1, 1, 0.5 },
+        Texture = [[Interface\AddOns\Masque_Unhalted\Textures\Highlight.tga]],
+        BlendMode = "ADD",
+        Point = "CENTER",
+        RelPoint = "CENTER",
+        OffsetX = -0.1,
+        OffsetY = 0.1,
+    },
+    ContextOverlay = {
+        Width = IconSize,
+        Height = IconSize,
+        Color = { 0, 0, 0, 0.75 },
+        Texture = [[Interface\AddOns\Masque_Unhalted\Textures\Pushed.tga]],
+        BlendMode = "BLEND",
+        Point = "CENTER",
+        RelPoint = "CENTER",
+        OffsetX = -0.1,
+        OffsetY = 0.1,
+    },
     Count = {
         Width = IconSize,
         Height = 12,
@@ -164,4 +186,5 @@ Masque:AddSkin("Unhalted", {
         OffsetY = -2,
         DrawLayer = "OVERLAY",
     },
+    
 }, true)
