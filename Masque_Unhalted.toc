@@ -1,5 +1,6 @@
 ## Version: 1.0.0
 ## Title: Masque: Unhalted
+## Interface: 110002
 ## Notes: Clean & Minimalist Border for Masque.
 ## Author: Unhalted
 ## Dependency: Masque

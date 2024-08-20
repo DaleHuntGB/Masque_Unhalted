@@ -2,7 +2,7 @@ local Masque, MSQ_Version = LibStub("Masque", true)
 local IconSize = 38
 
 Masque:AddSkin("Unhalted", {
-    API_VERSION = 100100,
+    API_VERSION = 110000,
     Backdrop = {
         Width = IconSize,
         Height = IconSize,
@@ -186,5 +186,5 @@ Masque:AddSkin("Unhalted", {
         OffsetY = -2,
         DrawLayer = "OVERLAY",
     },
-    
+
 }, true)
